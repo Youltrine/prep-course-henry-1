@@ -1,2 +1,1 @@
-# prep-course-henry-1
-este es un repositorio de rpueba de henry
+esta es una preuba para pasar mi repositorio de github a un repositorio local"
